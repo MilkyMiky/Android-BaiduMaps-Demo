@@ -17,7 +17,7 @@
         <!-- baidu maps -->
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="S1HIlHqPXwYsSloNKvCueGxdAUQ6SCpx" />
+            android:value="0GyI7m6onT4e30QIx82lDGH0IMEC5pMy" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
