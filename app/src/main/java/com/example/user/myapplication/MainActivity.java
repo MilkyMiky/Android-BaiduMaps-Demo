@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mMapView = findViewById(R.id.map_view);
-        initMapStatus(new LatLng(0,0));
-        initOverlay(new LatLng(0,0));
+        initMapStatus(new LatLng(39.5088582,115.1981377));
+        initOverlay(new LatLng(39.5088582,115.1981377));
     }
 
     private void initMapStatus(LatLng latLng) {
