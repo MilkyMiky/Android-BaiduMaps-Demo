@@ -3,6 +3,8 @@ package com.example.user.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.baidu.mapapi.map.BaiduMap;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
